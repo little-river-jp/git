@@ -1,0 +1,10 @@
+# 民有地境界立会
+
+|地番|登記名義人|立会予定日|立会完了日|備考|
+|-|-|-|-|-|
+|[11-222](acquired-data/matters)|埼玉太郎|未||
+|[11-222](acquired-data/matters)|埼玉太郎|未||
+|[11-222](acquired-data/matters)|埼玉太郎|未||
+|[11-222](acquired-data/matters)|埼玉太郎|未||
+|[11-222](acquired-data/matters)|埼玉太郎|未||
+|[無番地道](acquired-data/matters)|〇〇市|担当者||
